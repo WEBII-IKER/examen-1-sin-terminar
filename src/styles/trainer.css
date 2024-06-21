@@ -1,0 +1,24 @@
+.trainer-profile {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #9032bb;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .trainer-profile img {
+    width: 100px; 
+    height: 100px;
+    border-radius: 50%; 
+    object-fit: cover; 
+    margin-right: 20px; 
+  }
+  
+  .trainer-profile h2 {
+    margin-bottom: 10px; 
+  }
+  
+  .trainer-profile p {
+    margin-bottom: 5px; 
+  }
